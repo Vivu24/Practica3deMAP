@@ -1,7 +1,6 @@
-Resumen de la practica y ahora toca conflicto
+Resumen de la practica
 
 Habituarnos al ciclo de trabajo con Git
 
 PRueba Conflicto
 
-Gracias chatGPT
