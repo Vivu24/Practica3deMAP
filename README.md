@@ -1,6 +1,5 @@
 Neva funcionalidad añadida: customización de los colores del juego.
 
-Nueva funcionalida para rotar piezas con el raton
 
 Resumen de la practica
 
